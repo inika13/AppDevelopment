@@ -1,0 +1,117 @@
+.rectangle2
+{
+    position: absolute;
+    height: 595px;
+    width: 480px;
+    left: 200px;
+    top: 80px;
+    background: rgba(251, 250, 243, 0.56);
+}
+.img2
+{
+    position: absolute;
+    position: fixed;
+    left: 0px;
+    padding-right: 0%;
+    padding-top: 0px;
+}
+.head2
+{
+    position: absolute;
+    font-size: 30px;
+    font-style: normal;
+    font-family: 'inter';
+    font-weight: 500;
+    left: 360px;
+    top: 100px;
+}
+.form2
+{
+    position: absolute;
+    left: 220px;
+    top: 220px;
+    font-size: 23px;
+}
+::placeholder
+{
+    font-size: 20px;
+}
+input[type=text200]
+{
+   
+    size: 22;
+    height: 25px;
+    font-size: 25px;
+    width: 220px;
+} 
+input[type=text300]
+{
+   
+    size: 22;
+    height: 25px;
+    font-size: 25px;
+    width: 220px;
+} 
+
+input[type=text400]
+{
+   
+    size: 22;
+    height: 25px;
+    font-size: 25px;
+    width: 220px;
+} 
+
+input[type=text500]
+{
+   
+    size: 22;
+    height: 25px;
+    font-size: 25px;
+    width: 220px;
+} 
+
+input[type=password400]
+{
+    size: 22;
+    height: 25px;
+    width: 220px;
+    font-size: 25px;
+    
+}
+
+
+input[type=password500]
+{
+    size: 22;
+    height: 25px;
+    width: 220px;
+    font-size: 25px;
+    
+}
+.but2
+{
+    position: absolute;
+    border-radius: 100px;
+    background: #0d0c0c;
+    width: 150px;
+    height: 42px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 39px;
+    color: #f8f7f7;
+    left: 120px;
+
+}
+
+
+
+
+
+
+
+
+
+
