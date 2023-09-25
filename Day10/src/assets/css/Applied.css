@@ -1,0 +1,80 @@
+.bill-container {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+    width: 450px;
+    margin-top:80px;
+  }
+  
+  .billform {
+    text-align: center;
+  }
+  
+  .bhead {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .billhead h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  
+  
+  
+  select,.invoice {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+.abc
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    background-color: #fffafa;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px 0;
+    background-color: #cb9999;
+}
+.button1
+{
+    position: absolute;
+    border-radius: 10px;
+    background: #0e0d0d;
+    width: 100px;
+    height: 42px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 39px;
+    color: #fefafa;
+    left: 100px;
+    margin-left: -240px;
+}
+.button2
+{
+    position: absolute;
+    border-radius: 10px;
+    background: #0e0d0d;
+    width: 100px;
+    height: 42px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 39px;
+    color: #fefafa;
+    left: 100px;
+}
