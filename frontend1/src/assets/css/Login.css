@@ -1,0 +1,69 @@
+/* Apply styles to the body */
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  /* Style the layout */
+  .layout {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style the login header */
+  .login {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the form inputs and buttons */
+  .form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form .but {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form .but:hover {
+    background-color: #45a049;
+  }
+  
+  /* Style the error messages */
+  .error-message {
+    color: red;
+    margin-top: 5px;
+  }
+  
+  /* Center align the signup button */
+  .signup-button {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  /* Style the link */
+  .signup-button a {
+    text-decoration: none;
+    color: #4caf50;
+    font-weight: bold;
+  }
+  
+  .signup-button a:hover {
+    text-decoration: underline;
+  }
